@@ -1,4 +1,4 @@
-### Monthly searches on the Metro Nashville website
+﻿cool - let me know if ### Monthly searches on the Metro Nashville website
 
 1. Find the dataset of Top 500 Monthly Searches on https://data.nashville.gov and download the CSV for Excel version of the data. Open the file in Excel and examine it.   
     a. Be sure to choose comma delimited when prompted.   
@@ -55,5 +55,5 @@
 
 19. Enter text (“query for codes over 100 times:”) in `M9` and use `COUNTIFS()` in `N9` to find the number of times users searched for ‘codes’ more than 100 times in a given month.
 
-20. Create a new column (G) with a header of “Volume”. Populate this column with one of 3 categories: ‘Low’, ‘Medium’, ‘High’. Low volume searches happened less than 50 times in a month, medium volume searches happened between 50 and 100 times in a month (inclusive), and high volume searches were conducted more than 100 times in a month.
+20. Create a new column (H) with a header of “Volume”. Populate this column with one of 3 categories: ‘Low’, ‘Medium’, ‘High’. Low volume searches happened less than 50 times in a month, medium volume searches happened between 50 and 100 times in a month (inclusive), and high volume searches were conducted more than 100 times in a month.
 
